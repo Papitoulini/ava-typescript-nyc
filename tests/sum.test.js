@@ -1,6 +1,6 @@
 import test from 'ava';
 
-import { sum, asyncSum } from '../scripts/sum.js';
+import { asyncSum } from '../scripts/sum.js';
 
 // test('sum', (t) => {
 //   t.true(sum(1, 2, 3, 4) === 10);

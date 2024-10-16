@@ -25,5 +25,8 @@
 		"nyc": "^17.1.0",
     "tap-xunit": "^1.7.0",
     "typescript": "^2.1.5"
+  },
+  "ava": {
+    "extensions": ["js"]
   }
 }

@@ -4,5 +4,9 @@
 	"all": true,
 	"include": ["scripts/**/*.js"],
 	"exclude": ["test/**/*.js"],
-	"extension": [".js"]
+	"extension": [".js"],
+    "cache": false,
+    "sourceMap": false,
+    "instrument": true,
+    "esModules": true
 }
