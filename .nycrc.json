@@ -2,7 +2,7 @@
 	"reporter" : ["json", "lcov", "text", "clover", "cobertura"],
 	"report-dir": "./coverage",
 	"all": true,
-	"include": ["src/**/*.js"],
+	"include": ["scripts/**/*.js"],
 	"exclude": ["test/**/*.js"],
 	"extension": [".js"]
 }
